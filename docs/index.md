@@ -6,9 +6,9 @@
 
 ## Introduction
 
-The University of Iowa supports researchers and their external collaborators by providing access to advanced supercomputing resources. Information Technology Services (ITS) operates several key systems, including the **Argon High Performance Computing (HPC) cluster**, the **Interactive Data Analytic Service (IDAS)**, and a variety of Storage Services.
+The University of Iowa(UI) supports UI researchers and their external collaborators by providing access to advanced supercomputing resources. Information Technology Services(ITS) operates several key systems, including the **Argon High Performance Computing(HPC) cluster**, the **Interactive Data Analytic Service(IDAS)**, and a several types of Storage Services.
 
-In addition to the comprehensive [Argon wiki pages](https://uiowa.atlassian.net/wiki/spaces/hpcdocs/overview?homepageId=76513285), this site is designed to help users effectively utilize HPC resources for computational research projects. If you have any questions or feedback about the content of this site, please [contact us](mailto:research-computing@uiowa.edu). 
+In addition to the comprehensive [Argon wiki pages](https://uiowa.atlassian.net/wiki/spaces/hpcdocs/overview?homepageId=76513285), this site is designed to help users effectively utilize HPC resources for computational research projects. If you have any questions or feedback about the content of this site, please contact us using [service portal](https://service.uiowa.edu). 
 
 
 ---
@@ -17,11 +17,11 @@ In addition to the comprehensive [Argon wiki pages](https://uiowa.atlassian.net/
 
 <div class="grid cards" markdown>
 
--   :material-alert-box-outline:{ .lg .middle } __November 2025 Argon Maintenance__
+-   :material-alert-box-outline:{ .lg .middle } __May 2026 Argon Maintenance__
 
     ---
 
-    * The Fall 2025 maintenance will be from 8:00 AM on November 19th until 8:00 AM on November 20th
+    * The Spring 2026 maintenance will be from 8:00 AM on May 20th until 8:00 AM on May 22th
 
 -   :material-update:{ .lg .middle } __Argon OS and Scheduler Update__
 
@@ -31,12 +31,13 @@ In addition to the comprehensive [Argon wiki pages](https://uiowa.atlassian.net/
     * SGE to SLURM
 
 
--   :material-school:{ .lg .middle } __Fall Semester 2025 Workshops__
+-   :material-school:{ .lg .middle } __Spring Semester 2026 Workshops__
 
     ---
 
     * Basic Linux 
     * Intro HPC
+    * PSC Workshop: OpenMP, MPI, Machine Learning
     
 -   :material-database:{ .lg .middle } __Storage Modernization__
 
