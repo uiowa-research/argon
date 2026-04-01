@@ -39,7 +39,7 @@ nav:
       - Editors: workshops/Basic_Linux/editors/index.md
     - HPC Workshop Materials: workshops/Intro_HPC/index.md
 
-  - __Templates(will be hidden): temp/index.md 
+  - __Templates(will be hidden): _temp/index.md
 
 markdown_extensions:
   - toc:

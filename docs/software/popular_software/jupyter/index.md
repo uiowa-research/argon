@@ -47,9 +47,9 @@ The instructions below are specific to the Argon HPC system, including how to se
         $ module load py-matplotlib
         ```
     
-        For more information, refer to the [Module page](../../modules#examples).
+        For more information, refer to the [Module page](../../modules/index.md#examples).
 
-        Alternatively, you can activate a Python virtual environment or Conda virtual environment to build the list of packages you need. See [Python page](../python) for the detailed information. 
+        Alternatively, you can activate a Python virtual environment or Conda virtual environment to build the list of packages you need. See [Python page](../python/index.md) for the detailed information. 
 
 
 4. Launch Jupyter Notebook on a Compute Node

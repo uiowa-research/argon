@@ -22,7 +22,7 @@ dooyoon@argon-login-6 ~> module spider python
         python/3.10.8_intel-2021.7.1
 
 ```
-Python packages in the module environment have a naming convention with the prepix ```py-xxx```. For more details, Refer to the [Software Modules](../../modules).
+Python packages in the module environment have a naming convention with the prepix ```py-xxx```. For more details, Refer to the [Software Modules](../../modules/index.md).
 
 ---
 
