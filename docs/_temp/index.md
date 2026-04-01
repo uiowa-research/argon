@@ -1,5 +1,5 @@
 # Templates
-This is a temporary page that shows a set of templates. This page will be hidden when it becomes open to public. 
+This is a temporary page that shows a set of templates. This page will be hidden when this site becomes open to public. 
 
 ## Text font and highlight
 
