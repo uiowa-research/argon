@@ -1,5 +1,0 @@
-# User Installations
-
-## Package managers
-
-

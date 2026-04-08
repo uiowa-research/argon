@@ -20,14 +20,16 @@ In addition to the comprehensive [Argon wiki pages](https://uiowa.atlassian.net/
 -   :material-alert-box-outline:{ .lg .middle } __May 2026 Argon Maintenance__
 
     ---
-
+    
+    * Data Center maintenance is scheduled on April 18th, which may affect Argon access:
+      [alert](https://its.uiowa.edu/alert/12211)
     * The Spring 2026 maintenance will be from 8:00 AM on May 20th until 8:00 AM on May 22th
 
 -   :material-update:{ .lg .middle } __Argon OS and Scheduler Update__
 
     ---
 
-    * Cent OS7 to Rocky
+    * Cent OS7 to Rocky 9
     * SGE to SLURM
 
 
