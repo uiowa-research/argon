@@ -23,8 +23,9 @@ nav:
 
   - Running Jobs:
     - Overview: running_jobs/overview/index.md
-    - Batch Jobs:
-      - Intro to Batch: running_jobs/batch_jobs/basic/index.md
+    - Interactive Sessions: running_jobs/interactive/index.md
+    - Batch Jobs: running_jobs/batch_jobs/index.md
+    - Array Jobs: running_jobs/array_jobs/index.md
 
   - Data Management:
     - Overview: data_management/overview/index.md
