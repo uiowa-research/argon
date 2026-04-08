@@ -14,7 +14,7 @@ One of the primary uses of containers is to build a specific software stack or a
 4.  **Copy** the container image to the target run system (Argon).
 5.  **Execute** commands in the container via the Apptainer interface.
 
-!!! warning "Where to generate images"
+!!! warning "Where to generate containers"
 
 	Steps 1–3 require **root** (administrator) access. This means you must perform these steps on a Linux machine that you manage. You **cannot build** containers on the Argon cluster; you can only **run** them. All modifications must happen on your local Linux machine. (Windows or Mac users can use VirtualBox or WSL2 to set up a local Linux environment for building).
 
