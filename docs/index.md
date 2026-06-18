@@ -6,11 +6,10 @@
 
 ## Introduction
 
-The University of Iowa(UI) supports UI researchers and their external collaborators by providing access to advanced supercomputing resources. Information Technology Services(ITS) operates several key systems, including the **Argon High Performance Computing(HPC) cluster**, the **Interactive Data Analytic Service(IDAS)**, and a several types of Storage Services.
+The University of Iowa (UI) supports UI researchers and their external collaborators by providing access to advanced supercomputing resources. Information Technology Services (ITS) operates several key systems, including the **Argon High Performance Computing(HPC) cluster**, the **Interactive Data Analytic Service(IDAS)**, and several types of Storage Services.
 
 In addition to the comprehensive [Argon wiki pages](https://uiowa.atlassian.net/wiki/spaces/hpcdocs/overview?homepageId=76513285), this site is designed to help users effectively utilize HPC resources for computational research projects. If you have any questions or feedback about the content of this site, please contact us using [service portal](https://service.uiowa.edu). 
 
-test page
 
 ---
 
@@ -18,13 +17,9 @@ test page
 
 <div class="grid cards" markdown>
 
--   :material-alert-box-outline:{ .lg .middle } __May 2026 Argon Maintenance__
+-   :material-alert-box-outline:{ .lg .middle } __Summer 2026 Argon Maintenance__
 
-    ---
-    
-    * Data Center maintenance is scheduled on April 18th, which may affect Argon access:
-      [alert](https://its.uiowa.edu/alert/12211)
-    * The Spring 2026 maintenance will be from 8:00 AM on May 20th until 8:00 AM on May 22th
+    * The recurring maintenance is scheduled from **8 AM on August 12th until 8 AM on Augut 13th**.
 
 -   :material-update:{ .lg .middle } __Argon OS and Scheduler Update__
 
@@ -34,7 +29,7 @@ test page
     * SGE to SLURM
 
 
--   :material-school:{ .lg .middle } __Spring Semester 2026 Workshops__
+-   :material-school:{ .lg .middle } __Fall Semester 2026 Workshops__
 
     ---
 
@@ -42,12 +37,20 @@ test page
     * Intro HPC
     * PSC Workshop: OpenMP, MPI, Machine Learning
     
+-   :material-comment-account-outline:{ .lg .middle } __Open Office Hours in June 2026__
+
+    ---
+
+    * Open office hours is scheduled on **Monday, June 22nd between 2 and 3:30 pm.** 
+    * Topic is general questions about how to utilize Argon for your research. 
+
+<!--
 -   :material-database:{ .lg .middle } __Storage Modernization__
 
     ---
 
-    * Large Scale Storage from zfs to Ceph
-
+    * Large Scale Storage & Argon Homes from zfs to Ceph
+-->
 
 </div>
 
