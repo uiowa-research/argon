@@ -117,7 +117,7 @@ extra:
   generator: false
   social:
     - icon: material/email
-      link: mailto:research-computing@uiowa.edu
+      link: https://research.its.uiowa.edu/contact-us
       name: Contact HPC consulting
     - icon: material/wikipedia
       link: https://uiowa.atlassian.net/wiki/spaces/hpcdocs/overview
