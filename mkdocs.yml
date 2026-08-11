@@ -42,6 +42,8 @@ nav:
       - Editors: workshops/Basic_Linux/editors/index.md
     - HPC Workshop Materials: workshops/Intro_HPC/index.md
 
+  - SGE to SLURM: sge_slurm/index.md
+
   - __Templates(will be hidden): _temp/index.md
 
 markdown_extensions:
@@ -83,6 +85,7 @@ extra_javascript:
 extra_css:
     - assets/stylesheets/extra.css
     - assets/stylesheets/admonitions.css
+    - assets/stylesheets/github_tables.css
 
 theme:
   name: material

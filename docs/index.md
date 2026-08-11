@@ -13,6 +13,12 @@ In addition to the comprehensive [Argon wiki pages](https://uiowa.atlassian.net/
 
 ---
 
+<br>
+
+!!! info "Future Scheduler Migration"
+
+    Argon will migrate its job scheduler from [Sun Grid Engine (SGE)](https://gridscheduler.sourceforge.net/htmlman/manuals.html) to [SLURM](https://slurm.schedmd.com/overview.html). The release date is not determined yet. Please be prepared yourself to check how your script needs to be updated:
+
 ## News
 
 <div class="grid cards" markdown>
@@ -37,11 +43,11 @@ In addition to the comprehensive [Argon wiki pages](https://uiowa.atlassian.net/
     * Intro HPC
     * PSC Workshop: OpenMP, MPI, Machine Learning
     
--   :material-comment-account-outline:{ .lg .middle } __Open Office Hours in June 2026__
+-   :material-comment-account-outline:{ .lg .middle } __Open Office Hours in September 2026__
 
     ---
 
-    * Open office hours is scheduled on **Monday, June 22nd between 2 and 3:30 pm.** 
+    * Monthly open office hours is scheduled in September: the exact date is **TBD**.
     * Topic is general questions about how to utilize Argon for your research. 
 
 <!--
