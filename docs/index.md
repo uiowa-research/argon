@@ -17,7 +17,7 @@ In addition to the comprehensive [Argon wiki pages](https://uiowa.atlassian.net/
 
 !!! warning "Future Scheduler Migration"
 
-    Argon will migrate its job scheduler from [Sun Grid Engine (SGE)](https://gridscheduler.sourceforge.net/htmlman/manuals.html) to [SLURM](https://slurm.schedmd.com/overview.html). **The exact release date has not yet determined,** but please start reviewing your submission scripts to see what updates will be needed: [SGE to SLURM on Argon](sge_slurm/index.md)
+    Argon will migrate its job scheduler from [Sun Grid Engine (SGE)](https://gridscheduler.sourceforge.net/htmlman/manuals.html) to [SLURM](https://slurm.schedmd.com/overview.html). **The exact release date has not yet been determined,** but please start reviewing your submission scripts to see what updates will be needed: [SGE to SLURM on Argon](sge_slurm/index.md)
 
 ## News
 
