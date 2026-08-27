@@ -25,7 +25,8 @@ In addition to the comprehensive [Argon wiki pages](https://uiowa.atlassian.net/
 
 -   :material-alert-box-outline:{ .lg .middle } __Summer 2026 Argon Maintenance__
 
-    * The recurring maintenance is scheduled from **8 AM on August 12th until 8 AM on Augut 13th**.
+    * <s>The recurring maintenance is scheduled from **8 AM on August 12th until 8 AM on Augut 13th**.</s>
+    * Completed the summer maintenance successfully.
 
 -   :material-update:{ .lg .middle } __Argon OS and Scheduler Update__
 
@@ -39,8 +40,8 @@ In addition to the comprehensive [Argon wiki pages](https://uiowa.atlassian.net/
 
     ---
 
-    * Basic Linux 
-    * Intro HPC
+    * [Basic Linux Command Line on Argon](https://research.its.uiowa.edu/event/38900/0): **September 16th** 
+    * [Introduction to HPC using Argon](https://research.its.uiowa.edu/event/38901/0): **September 17th**
     * PSC Workshop: OpenMP, MPI, Machine Learning
     
 -   :material-comment-account-outline:{ .lg .middle } __Open Office Hours in September 2026__
