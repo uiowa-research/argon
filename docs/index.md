@@ -23,10 +23,16 @@ In addition to the comprehensive [Argon wiki pages](https://uiowa.atlassian.net/
 
 <div class="grid cards" markdown>
 
--   :material-alert-box-outline:{ .lg .middle } __Summer 2026 Argon Maintenance__
+-   :material-alert-box-outline:{ .lg .middle } __Fall 2026 Argon Maintenance__
+ 
+    ---
+    
+    * The recurring maintenance is scheduled from **8 AM on November 12th until 8 AM on November 13th**. 
 
-    * <s>The recurring maintenance is scheduled from **8 AM on August 12th until 8 AM on Augut 13th**.</s>
+<!--
+    * <s>The recurring maintenance is scheduled from **8 AM on August 12th until 8 AM on Augut 13th**.</s> 
     * Completed the summer maintenance successfully.
+-->
 
 -   :material-update:{ .lg .middle } __Argon OS and Scheduler Update__
 
@@ -40,15 +46,15 @@ In addition to the comprehensive [Argon wiki pages](https://uiowa.atlassian.net/
 
     ---
 
-    * [Basic Linux Command Line on Argon](https://research.its.uiowa.edu/event/38900/0): **September 16th** 
-    * [Introduction to HPC using Argon](https://research.its.uiowa.edu/event/38901/0): **September 17th**
-    * PSC Workshop: OpenMP, MPI, Machine Learning
+    * <s> [Basic Linux Command Line on Argon](https://research.its.uiowa.edu/event/38900/0): **September 16th** </s>
+    * <s> [Introduction to HPC using Argon](https://research.its.uiowa.edu/event/38901/0): **September 17th** </s>
+    * [PSC Workshop: OpenMP, MPI, Machine Learning](https://events.uiowa.edu/event/39665): **October 13&14**
     
--   :material-comment-account-outline:{ .lg .middle } __Open Office Hours in September 2026__
+-   :material-comment-account-outline:{ .lg .middle } __Open Office Hours in November 2026__
 
     ---
 
-    * Monthly open office hours is scheduled in September: the exact date is **TBD**.
+    * Monthly open office hours is scheduled in November: the exact date is **TBD**.
     * Topic is general questions about how to utilize Argon for your research. 
 
 <!--
