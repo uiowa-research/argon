@@ -24,7 +24,7 @@ jobs:
 
       - name: Build documentation
         run: |
-          zensical build
+          zensical build -d _site
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
