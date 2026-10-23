@@ -89,58 +89,13 @@ toggle.name = "Switch to light mode"
 
 [[project.extra.social]]
 icon = "material/email-outline"
-link = "https://uarizona.service-now.com/sp?id=sc_cat_item&sys_id=2983102adbd23c109627d90d689619c6&sysparm_category=84d3d1acdbc8f4109627d90d6896191f"
+link = "https://service.uiowa.edu/"
 name = "Submit a help ticket"
 
 [[project.extra.social]]
-icon = "material/comment-question-outline"
-link = "https://hpcdocs.hpc.arizona.edu/support_and_training/faqs/"
-name = "FAQs"
-
-[[project.extra.social]]
-icon = "material/account-outline"
-link = "https://portal.hpc.arizona.edu/portal/"
-name = "User portal"
-
-[[project.extra.social]]
 icon = "material/monitor-dashboard"
-link = "https://ood.hpc.arizona.edu/pun/sys/dashboard"
-name = "Open OnDemand"
-
-[[project.extra.social]]
-icon = "fontawesome/brands/youtube"
-link = "https://www.youtube.com/@universityofarizonauitsres7597"
-name = "YouTube channel"
-
-[[project.extra.social]]
-icon = "material/chart-line"
-link = "https://metrics.hpc.arizona.edu/"
-name = "HPC job metrics"
-
-
-# Feedback
-
-#[project.extra.analytics]
-#provider = "google"
-#property = "G-3V0VRBSRZF"
-
-#[project.extra.analytics.feedback]
-#title = "Was this page helpful?"
-
-#[[project.extra.analytics.feedback.ratings]]
-#icon = "material/cow"
-#name = "Moo-velous!"
-#data = 1
-#note = "Legen-dairy!"
-
-#[[project.extra.analytics.feedback.ratings]]
-#icon = "material/cow-off"
-#name = "Udder Disappointment"
-#data = 0
-#note = """
-#  Sorry this page wasn't moo-ch help. Let us know what we can improve with our <a href="https://forms.gle/WWMkVU66A6pJvmhc9" target="_blank" rel="noopener">super fast, anonymous feedback form</a>.  
-#"""
-
+link = "https://xdmod.hpc.uiowa.edu/"
+name = "XDMoD"
 
 
 # Extensions 
@@ -195,6 +150,3 @@ custom_checkbox = true
 "Policies" = "policies"
 "Running Jobs" = "running-jobs"
 "Learning Resources" = "learning-resources"
-
-
-
