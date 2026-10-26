@@ -39,11 +39,36 @@ nav = [
 			{ "R" = [
 				"software/overview/index.md", #need to be updated
 				{ "Personal Library" = "software/popular_software/R/rlibrary/index.md" },
-				{ "Batch Jobs" = "software/popular_software/R/rbatch/index.md"}
+				{ "Batch Jobs" = "software/popular_software/R/rbatch/index.md" }
 			]}
 		]},
-		{"Containers" = "software/containers/index.md"}
-	]}
+		{"Containers" = "software/containers/index.md" }
+   ]},
+   { "Running Jobs" = [
+		"running_jobs/overview/index.md",
+		{ "Interactive Sessions" = "running_jobs/interactive/index.md" },
+		{ "Batch Jobs" = "running_jobs/batch_jobs/index.md" },
+		{ "Array Jobs" = "running_jobs/array_jobs/index.md" }
+   ]},
+   { "Data Management" = [
+		"data_management/overview/index.md",
+		{ "GLOBUS" = "data_management/globus/index.md" }
+   ]},
+   { "Support" = [
+		"support/index.md",
+		{ "ACCESS Application" = "support/nsf_access/index.md" },
+		{ "Consultation" = "support/consultation/index.md" }
+   ]},
+   { "Workshops" = [
+		"workshops/overview/index.md",
+		{ "Linux Workshop Materials" = [
+			"workshops/Basic_Linux/commands/index.md",
+			{ "Editors" = "workshops/Basic_Linux/editors/index.md" }
+		]},
+		{ "HPC Workshop Materials" = "workshops/Intro_HPC/index.md" }
+   ]},
+   { "SGE to SLURM" = "sge_slurm/index.md" },
+   { "__Templates (temporary)" = "_temp/index.md"}
 ]
 
 
