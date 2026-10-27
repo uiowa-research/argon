@@ -44,7 +44,7 @@ In addition to the comprehensive [Argon wiki pages](https://uiowa.atlassian.net/
 
     * The transition date has not yet been finalized.
     * Cent OS7 to Rocky 9
-    * SGE to SLURM
+    * [SGE to SLURM](/sge_slurm)
 
 
 -   :material-school:{ .lg .middle } __Fall Semester 2026 Workshops__
