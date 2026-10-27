@@ -82,7 +82,7 @@ deprecated = "Deprecated"
 [project.extra.annotate]
 
 [project.theme]
-custom_dir = "docs/overrides"
+custom_dir = "overrides"
 favicon = "assets/images/favicon.ico"
 logo = "assets/images/home/TOP-IOWA-Black-Tab-ffcd00.png"
 
@@ -145,6 +145,9 @@ generic = true
 [project.markdown_extensions.pymdownx.emoji]
 emoji_generator = "zensical.extensions.emoji.to_svg"
 emoji_index = "zensical.extensions.emoji.twemoji"
+options.custom_icons = [
+  "overrides/.icons",
+]
 [project.markdown_extensions.pymdownx.highlight]
 anchor_linenums = true
 line_spans = "__span"

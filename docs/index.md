@@ -1,4 +1,5 @@
 # Welcome to the University of Iowa HPC Documentation Site
+<link rel="stylesheet" href="./assets/stylesheets/extra.css">
 <link rel="stylesheet" href="assets/stylesheets/images.css">
 
 
@@ -15,9 +16,11 @@ In addition to the comprehensive [Argon wiki pages](https://uiowa.atlassian.net/
 
 <br>
 
+<!--
 !!! warning "Future Scheduler Migration"
 
     Argon will migrate its job scheduler from [Sun Grid Engine (SGE)](https://gridscheduler.sourceforge.net/htmlman/manuals.html) to [SLURM](https://slurm.schedmd.com/overview.html). **The exact release date has not yet been determined,** but please start reviewing your submission scripts to see what updates will be needed: [SGE to SLURM on Argon](sge_slurm/index.md)
+-->
 
 ## News
 
@@ -34,10 +37,12 @@ In addition to the comprehensive [Argon wiki pages](https://uiowa.atlassian.net/
     * Completed the summer maintenance successfully.
 -->
 
+
 -   :material-update:{ .lg .middle } __Argon OS and Scheduler Update__
 
     ---
 
+    * The transition date has not yet been finalized.
     * Cent OS7 to Rocky 9
     * SGE to SLURM
 
@@ -46,9 +51,9 @@ In addition to the comprehensive [Argon wiki pages](https://uiowa.atlassian.net/
 
     ---
 
-    * <s> [Basic Linux Command Line on Argon](https://research.its.uiowa.edu/event/38900/0): **September 16th** </s>
-    * <s> [Introduction to HPC using Argon](https://research.its.uiowa.edu/event/38901/0): **September 17th** </s>
-    * [PSC Workshop: OpenMP, MPI, Machine Learning](https://events.uiowa.edu/event/39665): **October 13&14**
+    * <s> [PSC Workshop: OpenMP, MPI, Machine Learning](https://events.uiowa.edu/event/39665): **October 13&14** </s>
+    * [Basic Linux Command Line on Argon](https://events.uiowa.edu/event/39983): **December**
+    * [Introduction to HPC using Argon](https://events.uiowa.edu/event/39984): **December** 
     
 -   :material-comment-account-outline:{ .lg .middle } __Open Office Hours in November 2026__
 
@@ -71,41 +76,37 @@ In addition to the comprehensive [Argon wiki pages](https://uiowa.atlassian.net/
 
 ## Featured links for Research Services
 
-<p style="display:inline-block;">
-  <img src="assets/images/home/Iowa_I_Black.png" title="image bullet point" style="width: 40px; vertical-align: middle;">
-  <span style="font-size: 20px; vertical-align: middle; margin-left: 0.5em;"><a href="https://research.its.uiowa.edu/our-services/computing-services/argon-high-performance-computing-hpc" target="_blank">Argon: High-Perfmance Computing (HPC)</a></span>
-</p>
+<div class="grid cards link-cards" markdown>
 
-<p style="margin-top: -0.7em; margin-bottom: 0em; margin-left: 3.4em;"> Accounts on the Argon HPC system are available at no cost to UI faculty, staff, and students who conduct research. Faculty members may sponsor access for research collaborators who are not part of the UI community and may purchase dedicated compute node capacity for their groups.</p>
+-  :custom-iowa_hawkeyes_2:{ .lg .middle } [__Argon: High-Performance Computing (HPC)__](https://research.its.uiowa.edu/our-services/computing-services/argon-high-performance-computing-hpc)
 
-<p style="display:inline-block;">
-  <img src="assets/images/home/Iowa_I_Black.png" title="image bullet point" style="width: 40px; vertical-align: middle;">
-  <span style="font-size: 20px; vertical-align: middle; margin-left: 0.5em;"><a href="https://idas.uiowa.edu/" target="_blank">Interactive Data Analytics Services (IDAS)</a></span>
-</p>
+    Accounts on the Argon HPC system are available at no cost to UI faculty, staff, and students who conduct research. Faculty members may sponsor access for research collaborators who are not part of the UI community and may purchase dedicated compute node capacity for their groups.
 
-<p style="margin-top: -0.7em; margin-bottom: 0em; margin-left: 3.4em;"> A high performance computing (HPC) resource that supports large-scale
-and collaborative data analytics workflows involving RStudio, Jupyter Notebooks, and Jupyter Lab </p>
+</div>
 
-<p style="display:inline-block;">
-  <img src="assets/images/home/Iowa_I_Black.png" title="image bullet point" style="width: 40px; vertical-align: middle;">
-  <span style="font-size: 20px; vertical-align: middle; margin-left: 0.5em;"><a href="https://research.its.uiowa.edu/our-services/storage-services" target="_blank">Storage Services</a></span>
-</p>
+<div class="grid cards link-cards" markdown>
 
-<p style="margin-top: -0.7em; margin-bottom: 0em; margin-left: 3.4em;"> Store and share research data files </p>
+-  :custom-iowa_hawkeyes_2:{ .lg .middle } [__Argon Manual at wiki__](https://uiowa.atlassian.net/wiki/spaces/hpcdocs/overview)
 
-<p style="display:inline-block;">
-  <img src="assets/images/home/Iowa_I_Black.png" title="image bullet point" style="width: 40px; vertical-align: middle;">
-  <span style="font-size: 20px; vertical-align: middle; margin-left: 0.5em;"><a href="https://its.uiowa.edu/services/research-remote-desktop-service" target="_blank">Research Remote Desktop Service (RRDS)</a></span>
-</p>
+    Comprehensive information about how to utilize Argon cluster
 
-<p style="margin-top: -0.7em; margin-bottom: 0em; margin-left: 3.4em;"> A Windows virtual desktop environment through which users can remotely access research data and pre-installed analysis software. </p>
+</div>
 
-<p style="display:inline-block;">
-  <img src="assets/images/home/Iowa_I_Black.png" title="image bullet point" style="width: 40px; vertical-align: middle;">
-  <span style="font-size: 20px; vertical-align: middle; margin-left: 0.5em;"><a href="https://uiowa.atlassian.net/wiki/spaces/hpcdocs/overview" target="_blank">Comprehensive Argon Manual at Wiki</a></span>
-</p>
+<div class="grid cards link-cards" markdown>
 
-<p style="margin-top: -0.7em; margin-bottom: 0em; margin-left: 3.4em;"> Comprehensive information about how to utilize Argon cluster</p>
+-  :custom-iowa_hawkeyes_2:{ .lg .middle } [__Interactive Data Analytics Services (IDAS)__](https://idas.uiowa.edu/)
+
+    A high performance computing (HPC) resource that supports large-scale and collaborative data analytics workflows involving RStudio, Jupyter Notebooks, and Jupyter Lab.
+
+</div>
+
+<div class="grid cards link-cards" markdown>
+
+-  :custom-iowa_hawkeyes_2:{ .lg .middle } [__Storage Service__](https://research.its.uiowa.edu/our-services/storage-services)
+
+    Store and share research data files
+
+</div>
 
 
 ---
