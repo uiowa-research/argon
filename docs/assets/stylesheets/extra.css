@@ -21,7 +21,6 @@
   --md-typeset-mark-color: #fac21b87;
 }
 
-
 .md-typeset code {
   background-color: #F4EDE5;
   color: #001C48;
@@ -48,7 +47,7 @@
 }
 
 .md-nav--primary .md-nav__item .md-nav__link--active {
-  background-color: rgba(239,64,86, 0.1);
+  background-color: rgba(77, 61, 217, 0.1);
   border-radius: 4px;
 }
 
