@@ -33,7 +33,7 @@ nav = [
 		"software/overview/index.md",
 		{ "Modules" = "software/modules/index.md" },
 		{ "Popular Software" = [
-			"software/overview/index.md", # need to be updated
+			"software/popular_software/index.md", # need to be updated
 			{ "Python" = "software/popular_software/python/index.md" },
 			{ "Jupyter Notebook" = "software/popular_software/jupyter/index.md" },
 			{ "R" = [
