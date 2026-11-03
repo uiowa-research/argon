@@ -51,15 +51,15 @@ In addition to the comprehensive [Argon wiki pages](https://uiowa.atlassian.net/
 
     ---
 
-    * <s> [PSC Workshop: OpenMP, MPI, Machine Learning](https://events.uiowa.edu/event/39665): **October 13&14** </s>
-    * [Basic Linux Command Line on Argon](https://events.uiowa.edu/event/39983): **December**
-    * [Introduction to HPC using Argon](https://events.uiowa.edu/event/39984): **December** 
+    * <s> [PSC Workshop: OpenMP, MPI, Machine Learning](https://events.uiowa.edu/event/39665): **Oct. 13&14** </s>
+    * [Basic Linux Command Line on Argon](https://events.uiowa.edu/event/39983): **Wed, Dec. 9th**
+    * [Introduction to HPC using Argon](https://events.uiowa.edu/event/39984): **Thu, Dec. 10th** 
     
 -   :material-comment-account-outline:{ .lg .middle } __Open Office Hours in November 2026__
 
     ---
 
-    * Monthly open office hours is scheduled in November: the exact date is **TBD**.
+    * Monthly open office hours is scheduled in November: **[Tuesday, Nov. 17th, 1-2:30pm](https://research.its.uiowa.edu/event/40113/0)**
     * Topic is general questions about how to utilize Argon for your research. 
 
 <!--
