@@ -1,31 +1,31 @@
 # Getting Started with HPC 
 
-<link rel="stylesheet" href="../../assets/stylesheets/buttons.css">
+<link rel="stylesheet" href="../assets/stylesheets/buttons.css">
 
 ## What is an HPC?
 
-At its core, a High Performance Computing (HPC) cluster is a group of uniformly configured compute nodes that work together—typically connected via high-bandwidth, low-latency networks—to solve large-scale computational problems. These problems often require more memory or processing power than a typical workstation or single server can provide.
-
-When clustered, these nodes function as a unified system, enabling researchers to tackle complex tasks much more efficiently.
+A High Performance Computing (HPC) cluster is a group of uniformly configured compute nodes that work together to solve large-scale computational problems. The nodes are typically connected by high-bandwidth, low-latency networks, 
+so they function as a single unified system. This lets researchers tackle problems that need more memory or processing power than a typical workstation or single server can provide.
 
 An HPC cluster typically includes:
 
-- Compute nodes: Ranging from a few to thousands, these perform the actual computations.
-- Login or staging nodes: Used for accessing the system and preparing jobs.
-- Head nodes: Manage job scheduling, resource allocation, and data coordination.
+- **Compute nodes:** Anywhere from a few to thousands, these perform the actual computations.
+- **Login or staging nodes:** Used to access the system and prepare jobs.
+- **Head nodes:** Manage job scheduling, resource allocation, and data coordination.
 
 ---
 
 ## What is a Scheduler?
 
-A scheduler is a <mark> software tool that manages and fairly distributes cluster resources among users.</mark> It works in tandem with a queuing system, which organizes jobs based on available resources or user access.
+A scheduler is a <mark>software tool that manages cluster resources and distributes them fairly among users.</mark> It works together with a queuing system, which organizes jobs based on available resources or user access.
 
-Schedulers allow users to select:
+When submitting a job, you can use the scheduler to request:
 
-- Parallel environments (PEs): For jobs requiring inter-node communication.
-- Special resources: Such as GPUs, co-processors, or extra memory.
+- **Parallel environments (PEs):** For jobs that require communication between nodes.
+- **Special resources:** Such as GPUs, co-processors, or extra memory.
 
-Schedulers monitor job submissions and determine which jobs can run based on current resource availability. They may also prioritize jobs from users who use the system less frequently, ensuring equitable access and preventing resource monopolization.
+The scheduler monitors job submissions and decides which jobs can run based on current resource availability. It may also prioritize jobs from users who use the system less often, 
+which ensures equitable access and prevents any one user from monopolizing resources.
 
 ---
 

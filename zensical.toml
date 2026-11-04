@@ -25,7 +25,7 @@ Copyright &copy; 2026 The University of Iowa
 nav = [
    { "Home" = "index.md" },
    { "Getting Started HPC" = [
-		"get_started/overview/index.md",
+		"get_started/index.md",
 		{ "Access" = "get_started/access/index.md" }]
    },
    { "Resource" = "resources/compute_resources/index.md" },
